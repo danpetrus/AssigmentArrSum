@@ -1,0 +1,13 @@
+C:\Users\petrusm\source\repos\SumArray\SumArray\bin\Debug\netcoreapp3.1\SumArray.exe
+C:\Users\petrusm\source\repos\SumArray\SumArray\bin\Debug\netcoreapp3.1\SumArray.deps.json
+C:\Users\petrusm\source\repos\SumArray\SumArray\bin\Debug\netcoreapp3.1\SumArray.runtimeconfig.json
+C:\Users\petrusm\source\repos\SumArray\SumArray\bin\Debug\netcoreapp3.1\SumArray.runtimeconfig.dev.json
+C:\Users\petrusm\source\repos\SumArray\SumArray\bin\Debug\netcoreapp3.1\SumArray.dll
+C:\Users\petrusm\source\repos\SumArray\SumArray\bin\Debug\netcoreapp3.1\SumArray.pdb
+C:\Users\petrusm\source\repos\SumArray\SumArray\obj\Debug\netcoreapp3.1\SumArray.csprojAssemblyReference.cache
+C:\Users\petrusm\source\repos\SumArray\SumArray\obj\Debug\netcoreapp3.1\SumArray.csproj.CoreCompileInputs.cache
+C:\Users\petrusm\source\repos\SumArray\SumArray\obj\Debug\netcoreapp3.1\SumArray.AssemblyInfoInputs.cache
+C:\Users\petrusm\source\repos\SumArray\SumArray\obj\Debug\netcoreapp3.1\SumArray.AssemblyInfo.cs
+C:\Users\petrusm\source\repos\SumArray\SumArray\obj\Debug\netcoreapp3.1\SumArray.dll
+C:\Users\petrusm\source\repos\SumArray\SumArray\obj\Debug\netcoreapp3.1\SumArray.pdb
+C:\Users\petrusm\source\repos\SumArray\SumArray\obj\Debug\netcoreapp3.1\SumArray.genruntimeconfig.cache
